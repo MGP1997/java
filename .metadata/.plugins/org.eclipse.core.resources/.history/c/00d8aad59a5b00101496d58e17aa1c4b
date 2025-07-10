@@ -1,0 +1,40 @@
+package sub3;
+/*
+ *  날짜 : 2025/07/08
+ *  이름 : 박민규
+ *  내용 : 자바 for 반복문 실습하기
+ */
+public class ForTest {
+	
+	public static void main(String[] args) {
+		
+		//for 기본 조기식; 조건식; 증감식
+		for(int i = 0; i < 10; i++) {
+			System.out.println("i : " + i);
+		}
+		//1부터 10까지 합 << 이거 sysout 왜 괄호 밖인지 질문
+		int sum = 0;
+		
+		for(int k = 1; k<=10; k++) {
+			sum = sum + k;
+		}
+		System.out.println("1부터 10까지 합 : " + sum);
+		//1부터 10까지 짝수합
+		
+		//for 중첩
+		
+		//구구단
+		
+		//별삼각형
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

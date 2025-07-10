@@ -1,0 +1,29 @@
+package sub2;
+
+/**
+ *  날짜 : 2025/07/07
+ *  이름 : 박민규
+ *  내용 : Java 다양한 출력 실습
+ *  
+ */
+public class PrintTest {
+
+	public static void main(String[] args) {
+		
+		// 기본 출력
+		System.out.println("Hello Java!"); 
+		System.out.println("Hello Kroea!");
+		System.out.println("Hello Busan!");
+
+		
+		// 한줄 출력
+		System.out.print("Welcome");
+		System.out.println("Java!");
+		
+		
+		
+		// 개행 출력
+		
+		
+	}
+}

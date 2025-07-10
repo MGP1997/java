@@ -1,0 +1,39 @@
+package sub1;
+
+
+
+/*
+ *  날짜 : 2025/07/08
+ *  이름 : 박민규
+ *  내용 : 자바 조건문 실습하기 
+ */
+public class ifTest {
+
+	public static void main(String[] args) {
+		
+		//if 
+		int num1 = 1;
+		int num2 = 2;
+		
+		if(num1 < num2) {
+			System.out.println("num1이 num2보다 작다.");
+			
+		}
+		
+		if(num1 > 1) {
+			System.out.println("num1은 1보다 크다.");
+		}
+	
+		
+		
+		
+		
+		//if ~ else
+		
+		
+		//if ~ else if ~ else
+		
+		
+		
+	}
+}

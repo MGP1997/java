@@ -1,0 +1,46 @@
+package sub2;
+/*
+ *  날짜 : 2025/07/09
+ *  이름 : 박민규
+ *  내용 : 자바 메서드 실습하기
+ */
+public class MethodTest { // Java는 class 구조체로서 Method로 구성	
+	
+	
+	//main 메서드 : Java 애플리케이션의 시작 메서드 
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	// 매서드 정의
+	public static int f(int x) {
+		
+		//매서드 호출
+		int y1= f(1);
+		int y2= f(2);
+		int y3= f(3);
+		
+		System.out.println("y1 : " + y1);
+		System.out.println("y2 : " + y2);
+		System.out.println("y3 : " + y3);
+		System.out.println();
+		
+		
+		int y = 2 * x + 3;
+		
+		return y; // return 반환 타입 void,  반환 타입 f 이름
+	}
+	
+	
+	
+	
+	
+	
+}

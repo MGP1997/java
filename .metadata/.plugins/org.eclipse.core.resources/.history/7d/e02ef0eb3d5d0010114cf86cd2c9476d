@@ -1,0 +1,29 @@
+package step2;
+
+import java.util.Scanner;
+
+public class Main02 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int A = sc.nextInt();
+		int B = sc.nextInt();
+		int C = sc.nextInt();
+		int D = sc.nextInt();
+		int F = sc.nextInt();
+		
+		if (A>=90) { 
+			System.out.println("A");
+		}else if (B>=80) { 
+			System.out.println("B");
+		}else if (C>=70) {
+			System.out.println("C");
+		}else if (D>=60) {
+			System.out.println("D");
+		}else if(F < 60) { 
+			System.out.println("F");
+		} 
+		sc.close();
+	} 
+
+}

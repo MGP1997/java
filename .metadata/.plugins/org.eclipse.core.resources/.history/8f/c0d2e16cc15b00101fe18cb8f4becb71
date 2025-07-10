@@ -1,0 +1,15 @@
+package sub2;
+/*
+ *  날짜 : 2025/07/08
+ *  이름 : 박민규
+ *  내용 : 자료구조 Queue 실습하기
+ */
+public class QuequeTest {
+	public static void main(String[] args) {
+		int[] queue = new int[5]
+		int front = 0;
+		int rear = 0;
+		
+		//데이터 사입(enqueue)
+	}
+}

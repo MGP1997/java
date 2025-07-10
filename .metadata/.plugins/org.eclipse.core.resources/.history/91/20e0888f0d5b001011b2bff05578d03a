@@ -1,0 +1,15 @@
+package P72;
+
+public class Typeconversion {
+	final double PI = 3.14;
+	
+	double radius = 10.0;
+	double circleArea = radius*radius*PI;
+			
+	private void sysout("원의 면적 =" + circleArea) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+}

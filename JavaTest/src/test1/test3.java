@@ -1,0 +1,30 @@
+package test1;
+/*
+ * 날짜 : 2025/07/09
+ * 이름 : 박민규
+ * 내용 : 자바 연산자 연습문제
+ */
+public class test3 {
+	public static void main(String[] args) {
+		int num = 1;
+		int result = 0;
+		
+		result = num++; // N++ > 선대입 ++N > ++선대입 
+		System.out.println("result : " + result);
+		result = ++num;
+		System.out.println("result : " + result);
+		result = num--;
+		System.out.println("result : " + result);
+		result = --num;
+		System.out.println("result : " + result);
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

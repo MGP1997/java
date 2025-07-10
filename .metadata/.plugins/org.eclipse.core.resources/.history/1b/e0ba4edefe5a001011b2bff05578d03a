@@ -1,0 +1,44 @@
+package sub2;
+
+import javax.swing.plaf.synth.SynthGraphicsUtils;
+
+/**
+ * 날짜 : 2025/07/07
+ * 이름 : 박민규
+ * 내용 : 자바 변수 자료형 실습하기
+ */
+public class DataTupeTest {
+
+	
+	public static void main(String[] args) {
+	
+		// 정수형
+		byte  num1 = 127;
+		short num2 = 32767;
+		char  num3 = 97;
+		int   num4 = 2147483647;
+		long  num5 = 922_377_203_685_477_507L;
+		long  num6 = 9_223_372_036_854_775_807L; // long은 끝에 L붙여야함
+		
+		System.out.println("num1 : " + num1);
+		System.out.println("num2 : " + num2);
+		System.out.println("num3 : " + num3);
+		System.out.println("num4 : " + num4);
+		System.out.println("num5 : " + num5);
+		System.out.println("num6 : " + num6);
+		
+		// 실수형
+		float  var1 = 0.123456789f; //float는 마지막에 f를 붙여줘야함
+		double var2 = 0.1234567890123456789;
+		
+		System.out.println("var1 : " + var1);
+		System.out.println("var2 : " + var2);
+
+		// 논리형
+		
+		// 문자형
+		
+		// 문자열
+		
+	}
+}

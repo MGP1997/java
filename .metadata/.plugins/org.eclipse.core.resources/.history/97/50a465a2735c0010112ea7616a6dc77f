@@ -1,0 +1,9 @@
+package p92;
+
+public class dsa {
+	public static void main(String[] args) {
+		int a = 30; 
+				System.out.println();
+	}
+
+}

@@ -1,0 +1,25 @@
+package sub3;
+/*
+ *  날짜 : 2025/07/07
+ *  이름 : 박민규
+ *  내용 : 연산자 실습하기 
+ */
+public class OperatorTest {
+
+	public static void main(String[] args) {
+		
+		//산술연산자
+		int num1 = 1;
+		int num2 = 2;
+		int num3 = 3;
+		int num4 = 4;
+		
+		int result = num1 + num2;
+		
+		//증감연산자
+		//복합대입연산자
+		//비교연산자
+		//논리연산자
+
+	}
+}

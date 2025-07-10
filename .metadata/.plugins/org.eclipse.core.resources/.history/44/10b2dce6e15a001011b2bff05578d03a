@@ -1,0 +1,23 @@
+package sub1;
+
+/**
+	날짜 : 2025/07/07
+	이름 : 박민규
+	내용 : 변수 실습하기
+ */
+public class VariableTest {
+
+	public static void main(String[] args) {
+	
+		// 변수(Variable)
+		int a = 3;
+		int b = 7;
+		
+		System.out.println("a : " + a);
+		System.out.println("b : " + b);
+		
+	}
+	
+	
+	
+}

@@ -1,0 +1,11 @@
+package p87;
+
+import javax.swing.plaf.synth.SynthOptionPaneUI;
+
+public class ddd {
+
+	
+	public static void main(String[] args) {
+		System.out.println("dfdfd");
+	}
+}

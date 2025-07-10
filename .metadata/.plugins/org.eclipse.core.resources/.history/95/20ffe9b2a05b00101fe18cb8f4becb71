@@ -1,0 +1,28 @@
+package sub4;
+/*
+ *  날짜 : 2025/07/08
+ *  이름 : 박민규
+ *  내용 : 자바 while 반복문 실습하기
+ */
+public class WhileTest {
+	public static void main(String[] args) {
+		
+		
+		//1부터 10까지 합
+		int sum = 0; 
+		int k = 1;
+			
+		while(k <= 10) { 
+			sum += k;
+			k++;
+		}
+		System.out.println("1부터 10까지 합: " + sum);
+		//do-while
+				
+		//break
+		
+		//continue
+		
+	}
+
+}

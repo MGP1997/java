@@ -1,0 +1,13 @@
+package sub1;
+/*
+ *  날짜 : 2025/07/08
+ *  이름 : 박민규
+ *  내용 : 자료구조 Stack 실습하기
+ */
+public class StackTeset {
+	public static void main(String[] args) {
+		
+		int[] stack = new int[5];
+		
+	}
+}

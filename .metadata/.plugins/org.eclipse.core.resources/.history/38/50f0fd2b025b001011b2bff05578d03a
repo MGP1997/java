@@ -1,0 +1,65 @@
+package sub2;
+
+import javax.swing.plaf.synth.SynthGraphicsUtils;
+
+/**
+ * 날짜 : 2025/07/07
+ * 이름 : 박민규
+ * 내용 : 자바 변수 자료형 실습하기
+ */
+public class DataTupeTest {
+
+	
+	public static void main(String[] args) {
+	
+		// 정수형
+		byte  num1 = 127;   //1byte
+		short num2 = 32767; //2byte
+		char  num3 = 97;    //3byte
+		int   num4 = 2147483647; //4byte
+		long  num5 = 922_377_203_685_477_507L; // 8byte
+		long  num6 = 9_223_372_036_854_775_807L; // long은 끝에 L붙여야함
+		
+		System.out.println("num1 : " + num1);
+		System.out.println("num2 : " + num2);
+		System.out.println("num3 : " + num3);
+		System.out.println("num4 : " + num4);
+		System.out.println("num5 : " + num5);
+		System.out.println("num6 : " + num6);
+		
+		// 실수형
+		float  var1 = 0.123456789f; //float는 마지막에 f를 붙여줘야함 소수점 8자리 4byte
+		double var2 = 0.1234567890123456789; // 소수점 17자리까지 출력가능 8byte
+		
+		System.out.println("var1 : " + var1);
+		System.out.println("var2 : " + var2);
+
+		// 논리형
+		boolean value1 = true;
+		boolean value2 = false;
+		
+		System.out.println("value1 : " + value1);
+		System.out.println("value2 : " + value2);
+		
+		// 문자형
+		char ch1 = 'A';
+		char ch2 = '가';
+		
+		System.out.println("ch1 : " + ch1);
+		System.out.println("ch2 : " + ch2);
+		
+		
+		
+		// 문자열
+		String s1 = "A";
+		String s2 = "가";
+		String s3 = "Apple";
+		String s4 = "가을";
+		
+		System.out.println("s1 : " + s1);
+		System.out.println("s2 : " + s2);
+		System.out.println("s3 : " + s3);
+		System.out.println("s4 : " + s4);
+		
+	}
+}
