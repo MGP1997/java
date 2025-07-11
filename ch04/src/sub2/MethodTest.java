@@ -13,10 +13,12 @@ public class MethodTest { // Java는 class 구조체로서 Method로 구성
 		int y1 = f(1); //인자값 1을 f 메서드의 매게변수 x에 대입		
 		int y2 = f(2);
 		int y3 = f(3);
+		int y4 = f(4);
 		
 		System.out.println("y1 : " + y1);
 		System.out.println("y2 : " + y2);
 		System.out.println("y3 : " + y3);		
+		System.out.println("y4 : " + y4);		
 		
 		//지역변수와 메서드 호출
 		int total1 = sum(1, 10);
