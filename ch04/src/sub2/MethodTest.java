@@ -25,7 +25,7 @@ public class MethodTest { // Java는 class 구조체로서 Method로 구성
 		int total2 = sum(1, 100);
 		
 		System.out.println("total1 : " + total1);
-		System.out.println("total12 : " + total2);
+		System.out.println("total2 : " + total2);
 		
 		
 	} // main end
