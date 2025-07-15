@@ -7,5 +7,8 @@
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="sub04.Sedan"/>
+    <fullyQualifiedTypeName name="sub04.Doctor"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="sub05.Sedan"/>
 </qualifiedTypeNameHistroy>
