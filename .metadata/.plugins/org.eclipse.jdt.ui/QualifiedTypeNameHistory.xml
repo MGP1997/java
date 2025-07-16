@@ -11,4 +11,10 @@
     <fullyQualifiedTypeName name="sub04.Doctor"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sub05.Sedan"/>
+    <fullyQualifiedTypeName name="sub06.Pet"/>
+    <fullyQualifiedTypeName name="sub08.RemoteLG"/>
+    <fullyQualifiedTypeName name="sub08.RemoteControl"/>
+    <fullyQualifiedTypeName name="sub08.Socket"/>
+    <fullyQualifiedTypeName name="sub08.Bulb"/>
+    <fullyQualifiedTypeName name="sub08.Internet"/>
 </qualifiedTypeNameHistroy>
