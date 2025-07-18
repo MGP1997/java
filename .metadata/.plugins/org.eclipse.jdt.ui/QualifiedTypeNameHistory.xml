@@ -5,11 +5,8 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="sub04.Sedan"/>
     <fullyQualifiedTypeName name="sub04.Doctor"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sub05.Sedan"/>
     <fullyQualifiedTypeName name="sub06.Pet"/>
     <fullyQualifiedTypeName name="sub08.RemoteLG"/>
@@ -17,4 +14,19 @@
     <fullyQualifiedTypeName name="sub08.Socket"/>
     <fullyQualifiedTypeName name="sub08.Bulb"/>
     <fullyQualifiedTypeName name="sub08.Internet"/>
+    <fullyQualifiedTypeName name="test3.King"/>
+    <fullyQualifiedTypeName name="test3.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="test3.Customer.VipCustomer"/>
+    <fullyQualifiedTypeName name="test3.SmartPhone"/>
+    <fullyQualifiedTypeName name="test3.Computer"/>
+    <fullyQualifiedTypeName name="test3.CarFactory"/>
+    <fullyQualifiedTypeName name="test3.Customer"/>
+    <fullyQualifiedTypeName name="test3.Buyer"/>
+    <fullyQualifiedTypeName name="test3.Customers"/>
+    <fullyQualifiedTypeName name="test3.Test01"/>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
