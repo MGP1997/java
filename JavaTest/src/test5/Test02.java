@@ -30,7 +30,7 @@ public class Test02 {
 		try {
 			serchArray(find, arr);
 			System.out.println("입력한 숫자를 찾았습니다.");
-		}catch (Exception e) {
+		}catch (NotFoundException e) {
 			System.out.println(e.getMessage());
 		}finally { 
 			sc.close();

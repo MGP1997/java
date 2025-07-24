@@ -21,14 +21,14 @@ public class Test01 {
 				
 				
 				if(input < 0) { 
-					Exception a = new Exception("음수는 임력할 수 없습니다.")	;		
+					throw new Exception("음수는 임력할 수 없습니다.")	;		
 				}
 			}catch (InputMismatchException e) { 
 				System.out.println("숫자를 입력하세요.");
 				continue;
 			}catch (Exception e) { 
 				System.out.println(e.getMessage());
-				break;
+				continue;
 			}
 			if(answer > input) {
 				System.out.println("더 큰수를 입력하세요.");

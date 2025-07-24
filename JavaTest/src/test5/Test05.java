@@ -3,7 +3,7 @@ package test5;
 class Apple {
     private String country;
     private int price;
-
+ 
     public Apple(String country, int price) {
         this.country = country;
         this.price = price;

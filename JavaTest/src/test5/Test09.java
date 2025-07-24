@@ -36,9 +36,9 @@ public class Test09 {
 
         Map<String, List<Orange>> map = new HashMap<>();
 
-        map.put("", list1);
-        map.put("", list2);
-        map.put("", list3);
+        map.put("수원", list1);
+        map.put("충주", list2);
+        map.put("밀양", list3);
         
         // 전체 출력
         for (String key : map.keySet()) {
